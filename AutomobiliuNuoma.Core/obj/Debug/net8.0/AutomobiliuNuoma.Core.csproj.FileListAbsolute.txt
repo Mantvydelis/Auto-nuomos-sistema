@@ -1,0 +1,11 @@
+C:\Users\mantv\source\repos\AutomobiliuNuoma.Core\obj\Debug\net8.0\AutomobiliuNuoma.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantv\source\repos\AutomobiliuNuoma.Core\obj\Debug\net8.0\AutomobiliuNuoma.Core.AssemblyInfoInputs.cache
+C:\Users\mantv\source\repos\AutomobiliuNuoma.Core\obj\Debug\net8.0\AutomobiliuNuoma.Core.AssemblyInfo.cs
+C:\Users\mantv\source\repos\AutomobiliuNuoma.Core\obj\Debug\net8.0\AutomobiliuNuoma.Core.csproj.CoreCompileInputs.cache
+C:\Users\mantv\source\repos\AutomobiliuNuoma.Core\bin\Debug\net8.0\AutomobiliuNuoma.Core.deps.json
+C:\Users\mantv\source\repos\AutomobiliuNuoma.Core\bin\Debug\net8.0\AutomobiliuNuoma.Core.dll
+C:\Users\mantv\source\repos\AutomobiliuNuoma.Core\bin\Debug\net8.0\AutomobiliuNuoma.Core.pdb
+C:\Users\mantv\source\repos\AutomobiliuNuoma.Core\obj\Debug\net8.0\AutomobiliuNuoma.Core.dll
+C:\Users\mantv\source\repos\AutomobiliuNuoma.Core\obj\Debug\net8.0\refint\AutomobiliuNuoma.Core.dll
+C:\Users\mantv\source\repos\AutomobiliuNuoma.Core\obj\Debug\net8.0\AutomobiliuNuoma.Core.pdb
+C:\Users\mantv\source\repos\AutomobiliuNuoma.Core\obj\Debug\net8.0\ref\AutomobiliuNuoma.Core.dll
